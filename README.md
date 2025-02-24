@@ -6,3 +6,5 @@ This is a simple Todo web application built to practice full-stack development u
 - 📡 Store and retrieve todos from a backend  
 - 🎨 Responsive UI with a clean design  
 - 🔗 Axios integration for API communication 
+
+## 🛠 Technologies Used
