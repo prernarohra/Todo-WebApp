@@ -24,6 +24,6 @@ This is a simple Todo web application built to practice full-stack development u
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/todo-webapp.git
+   git clone https://github.com/prernarohra/Todo-WebApp.git
    cd todo-webapp
    ```
