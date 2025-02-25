@@ -14,3 +14,8 @@ This is a simple Todo web application built to practice full-stack development u
 - 🌐 HTML  
 - 🎨 CSS  
 - 🔗 Axios (for HTTP requests)  
+
+### Backend:
+- 🐍 Python  
+- 🚀 FastAPI
+- 🗄️ Database used (JSON)  
