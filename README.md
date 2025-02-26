@@ -32,3 +32,6 @@ This is a simple Todo web application built to practice full-stack development u
    source venv\Scripts\activate
    ```
 3. **Install dependencies:**
+   ```sh
+   pip install -r requirements.txt
+   ```
