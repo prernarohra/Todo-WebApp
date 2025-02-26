@@ -26,7 +26,7 @@ This is a simple Todo web application built to practice full-stack development u
    ```sh
    git clone https://github.com/prernarohra/Todo-WebApp.git
    ```
-2. Set up a virtual environment:
+2. **Set up a virtual environment**:
    ```sh
    python -m venv venv
    source venv\Scripts\activate
