@@ -31,3 +31,4 @@ This is a simple Todo web application built to practice full-stack development u
    python -m venv venv
    source venv\Scripts\activate
    ```
+3. **Install dependencies:**
