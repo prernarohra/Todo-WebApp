@@ -35,3 +35,7 @@ This is a simple Todo web application built to practice full-stack development u
    ```sh
    pip install -r requirements.txt
    ```
+4. **Run the backend:**
+   ```sh
+   uvicorn endpoints:app --reload
+   ```
