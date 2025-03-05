@@ -47,3 +47,7 @@ This is a simple Todo web application built to practice full-stack development u
    ```sh
    npm install
    ```
+2. **Run the development server:**
+   ```sh
+   npm start
+   ```
