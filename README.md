@@ -41,3 +41,9 @@ This is a simple Todo web application built to practice full-stack development u
    ```sh
    uvicorn endpoints:app --reload
    ```
+### Frontend
+
+1. **Install dependencies:**
+   ```sh
+   npm install
+   ```
