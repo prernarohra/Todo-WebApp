@@ -51,3 +51,10 @@ This is a simple Todo web application built to practice full-stack development u
    ```sh
    npm start
    ```
+## API Endpoints
+
+### Method Endpoint Description
+GET	/todos	Fetch all todos
+POST	/todos	Add a new todo
+PUT	/todos/:id	Update a todo
+DELETE	/todos/:id	Delete a todo
