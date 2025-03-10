@@ -59,5 +59,5 @@ This is a simple Todo web application built to practice full-stack development u
 - **PUT todos/id**: Update a todo
 - **DELETE todos/id**: Delete a todo
 
-## 📸 Screenshots
+## 📸 Screenshot
 ![image](https://github.com/user-attachments/assets/f915aba6-3522-475f-88ba-1ba9a48d9ddc)
