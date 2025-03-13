@@ -74,6 +74,6 @@ Feel free to fork this repository and submit pull requests with improvements.
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 #### ⭐ Don't forget to star this repository if you find it useful! 
