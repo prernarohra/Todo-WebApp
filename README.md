@@ -69,3 +69,5 @@ This is a simple Todo web application built to practice full-stack development u
 - Dark mode UI
 
 ## 🤝 Contributing
+
+Feel free to fork this repository and submit pull requests with improvements.
