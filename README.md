@@ -71,3 +71,5 @@ This is a simple Todo web application built to practice full-stack development u
 ## 🤝 Contributing
 
 Feel free to fork this repository and submit pull requests with improvements.
+
+## 📜 License
