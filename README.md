@@ -67,3 +67,5 @@ This is a simple Todo web application built to practice full-stack development u
 - User authentication
 - Persistent storage using a database
 - Dark mode UI
+
+## 🤝 Contributing
